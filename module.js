@@ -11,10 +11,17 @@ return newString
 
 clearLookALikes: (string) => {
 const mainArray = string.split('')
-
+const replaceInfo = [
+{
+    abuseLetter: 'á',
+    replacementLetter: 'a'
+}
+]
 for (let letter of mainArray) {
-    
-    console.log(letter)
+
+    for (let object of replaceInfo) {
+        if letter = 
+    }
 }
 }
 
