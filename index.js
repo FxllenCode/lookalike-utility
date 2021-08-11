@@ -1,3 +1,9 @@
-const module = require('./module.js')
+const clearutil = require('./module.js')
 
-module.clearInvisible('hey')
+const cleaned = clearutil.clearInvisible('hey​')
+
+if (cleaned === 'hey') {
+    console.log(cleaned)
+}
+
+clearutil.clearLookALikes('hello world')
