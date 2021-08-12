@@ -431,5 +431,77 @@ module.exports =
             abuseLetter: 'ʐ',
             replacementLetter: 'z'
         },
+        {
+            abuseLetter: '\u2100',
+            replacementLetter: 'a/c'
+        },
+        {
+            abuseLetter: '\u2101',
+            replacementLetter: 'a/s'
+        },
+        {
+            abuseLetter: '\u2102',
+            replacementLetter: 'C'
+        },
+        {
+            abuseLetter: '\u2103',
+            replacementLetter: 'C'
+        },
+        {
+            abuseLetter: '\u2105',
+            replacementLetter: 'c/o'
+        },
+        {
+            abuseLetter: '\u2106',
+            replacementLetter: 'c/u'
+        },
+        {
+            abuseLetter: '\u2107',
+            replacementLetter: 'E'
+        },
+        {
+            abuseLetter: '\u210A',
+            replacementLetter: 'g'
+        },
+        {
+            abuseLetter: '\u210B',
+            replacementLetter: 'H'
+        },
+        {
+            abuseLetter: '\u210C',
+            replacementLetter: 'H'
+        },
+        {
+            abuseLetter: '\u210D',
+            replacementLetter: 'H'
+        },
+        {
+            abuseLetter: '\u210E',
+            replacementLetter: 'h'
+        },
+        {
+            abuseLetter: '\u210F',
+            replacementLetter: 'h'
+        },
+        {
+            abuseLetter: '\u2110',
+            replacementLetter: 'I'
+        },
+        {
+            abuseLetter: '\u2111',
+            replacementLetter: 'I'
+        },
+        {
+            abuseLetter: '\u2112',
+            replacementLetter: 'L'
+        },
+        {
+            abuseLetter: '\u2113',
+            replacementLetter: 'l'
+        },
+        {
+            abuseLetter: '\u2114',
+            replacementLetter: 'lb'
+        },
     ]
 
