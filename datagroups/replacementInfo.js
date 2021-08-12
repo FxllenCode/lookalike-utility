@@ -279,8 +279,157 @@ module.exports =
             abuseLetter: 'ñ',
             replacementLetter: 'n'
         },
-
-
-
+        {
+            abuseLetter: 'ą',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'á',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'à',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'ä',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'ą',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'ạ',
+            replacementLetter: 'a'
+        },
+        {
+            abuseLetter: 'ċ',
+            replacementLetter: 'c'
+        },
+        {
+            abuseLetter: 'ƈ',
+            replacementLetter: 'c'
+        },
+        {
+            abuseLetter: 'ɗ',
+            replacementLetter: 'd'
+        },
+        {
+            abuseLetter: 'è',
+            replacementLetter: 'e'
+        },
+        {
+            abuseLetter: 'é',
+            replacementLetter: 'e'
+        },
+        {
+            abuseLetter: 'ė',
+            replacementLetter: 'e'
+        },
+        {
+            abuseLetter: 'ẹ',
+            replacementLetter: 'e'
+        },
+        {
+            abuseLetter: 'ġ',
+            replacementLetter: 'g'
+        },
+        {
+            abuseLetter: 'ï',
+            replacementLetter: 'i'
+        },
+        {
+            abuseLetter: 'í',
+            replacementLetter: 'i'
+        },
+        {
+            abuseLetter: 'ʝ',
+            replacementLetter: 'j'
+        },
+        {
+            abuseLetter: 'κ',
+            replacementLetter: 'k'
+        },
+        {
+            abuseLetter: 'ḷ',
+            replacementLetter: 'l'
+        },
+        {
+            abuseLetter: 'ö',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ò',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ó',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ơ',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ỏ',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ọ',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'ȯ',
+            replacementLetter: 'o'
+        },
+        {
+            abuseLetter: 'զ',
+            replacementLetter: 'q'
+        },
+        {
+            abuseLetter: 'ʂ',
+            replacementLetter: 's'
+        },
+        {
+            abuseLetter: 'ù',
+            replacementLetter: 'u'
+        },
+        {
+            abuseLetter: 'ú',
+            replacementLetter: 'u'
+        },
+        {
+            abuseLetter: 'ü',
+            replacementLetter: 'u'
+        },
+        {
+            abuseLetter: 'υ',
+            replacementLetter: 'u'
+        },
+        {
+            abuseLetter: 'ѵ',
+            replacementLetter: 'v'
+        },
+        {
+            abuseLetter: 'ν',
+            replacementLetter: 'v'
+        },
+        {
+            abuseLetter: 'ҳ',
+            replacementLetter: 'x'
+        },
+        {
+            abuseLetter: 'ý',
+            replacementLetter: 'y'
+        },
+        {
+            abuseLetter: 'ż',
+            replacementLetter: 'z'
+        },
+        {
+            abuseLetter: 'ʐ',
+            replacementLetter: 'z'
+        },
     ]
 
