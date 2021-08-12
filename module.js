@@ -1,28 +1,44 @@
+const replaceInfo = require('./datagroups/replacementInfo.js')
 module.exports = {
 
-clearInvisible: (string) => {
+    clearInvisible: (string) => {
 
 
 
-const newString = string.replace(/[\u200B\u200C\u200D\u200E\u200F\u000b\u2028\u2029\uFEFF\u202D]/g, '')
+        const newString = string.replace(/[\u200B\u200C\u200D\u200E\u200F\u000b\u2028\u2029\uFEFF\u202D]/g, '')
 
-return newString
-},
+        return newString
+    },
 
-clearLookALikes: (string) => {
-const mainArray = string.split('')
-const replaceInfo = [
-{
-    abuseLetter: 'á',
-    replacementLetter: 'a'
-}
-]
-for (let letter of mainArray) {
+    clearLookALikes: (str) => {
+        
+        const replacementMap = replaceInfo.reduce((acc, el) => {
+            acc[el.abuseLetter] = el.replacementLetter;
+            return acc;
+        }, {});
 
-    for (let object of replaceInfo) {
-        if letter = 
+         
+            final = ''
+            for (let i = 0; i < str.length; i++) {
+                if (replacementMap[str[i]] !== undefined) {
+                    final += replacementMap[str[i]];
+                } else {
+                    final += str[i];
+                }
+            }
+
+            return final
+        
+
+        
+
+
+
     }
 }
-}
 
-}
+
+
+
+
+
