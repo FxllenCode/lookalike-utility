@@ -503,5 +503,50 @@ module.exports =
             abuseLetter: '\u2114',
             replacementLetter: 'lb'
         },
+        {
+            abuseLetter: 'Ɩ',
+            replacementLetter: '1'
+        },
+        {
+            abuseLetter: 'Ƨ',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: 'Ϩ',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: 'ᒿ',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: 'Ꙅ',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: 'ꛯ',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: '𝟐',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: '𝟚',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: '𝟤',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: '𝟮',
+            replacementLetter: '2'
+        },
+        {
+            abuseLetter: '𝟸',
+            replacementLetter: '2'
+        },
+        
     ]
 
