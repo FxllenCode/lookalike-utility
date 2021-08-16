@@ -547,6 +547,138 @@ module.exports =
             abuseLetter: '𝟸',
             replacementLetter: '2'
         },
+        {
+            abuseLetter: '３',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: 'Ɜ',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: 'Ꝫ',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: 'Ⳍ',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: 'Ӡ',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: 'З',
+            replacementLetter: '3'
+        },
+        {
+            abuseLetter: '４',
+            replacementLetter: '4'
+        },
+        {
+            abuseLetter: 'Ꮞ',
+            replacementLetter: '4'
+        },
+        {
+            abuseLetter: '５',
+            replacementLetter: '5'
+        },
+        {
+            abuseLetter: 'Ƽ',
+            replacementLetter: '5'
+        },
+        {
+            abuseLetter: '６',
+            replacementLetter: '6'
+        },
+        {
+            abuseLetter: 'Ⳓ',
+            replacementLetter: '6'
+        },
+        {
+            abuseLetter: 'Ꮾ',
+            replacementLetter: '6'
+        },
+        {
+            abuseLetter: 'б',
+            replacementLetter: '6'
+        },
+        {
+            abuseLetter: '𐓒',
+            replacementLetter: '7'
+        },
+        {
+            abuseLetter: '７',
+            replacementLetter: '7'
+        },
+        {
+            abuseLetter: '𝟾',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '𝟴',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '𝟪',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '𝟠',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '𝟖',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '𐌚',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '８',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '৪',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: 'ȣ',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: 'Ȣ',
+            replacementLetter: '8'
+        },
+        {
+            abuseLetter: '９',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: 'Ꝯ',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: 'Ⳋ',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: '൭',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: '୨',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: '੧',
+            replacementLetter: '9'
+        },
+        {
+            abuseLetter: '৭',
+            replacementLetter: '9'
+        },
         
     ]
 
